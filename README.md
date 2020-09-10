@@ -1,4 +1,4 @@
-# EPL_Predictions
+# English Preimer League Predictions
 
 This is a sports prediction algorithm for English Primier League. The data for the project has been sourced from http://www.football-data.co.uk/matches.php.
 
